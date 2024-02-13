@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f25756a0-38d1-4fcd-99c5-1070017ef57f" name="Changes" comment="'While' and 'for' loops covered along with keywords 'break' and 'continue'" />
+    <list default="true" id="f25756a0-38d1-4fcd-99c5-1070017ef57f" name="Changes" comment="'While' and 'for' loops covered along with keywords 'break' and 'continue'">
+      <change afterPath="$PROJECT_DIR$/Week1/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,7 @@
   "keyToString": {
     "Python.BasicInputOutput.executor": "Run",
     "Python.DataTypes.executor": "Run",
+    "Python.Functions.executor": "Run",
     "Python.IfStatement.executor": "Run",
     "Python.Variables.executor": "Run",
     "Python.WhileAndForLoops.executor": "Run",
@@ -129,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707764183905</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="'While' and 'for' loops covered along with keywords 'break' and 'continue'">
+      <option name="closed" value="true" />
+      <created>1707764254313</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707764254313</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
