@@ -19,3 +19,10 @@ def myFunction3(x):
     return 5*x
 
 print(myFunction3(3))
+
+def myFunction4(**kwargs):
+    for key, value in kwargs.items():
+        print("%s == %s" % (key, value))
+
+# Driver code
+myFunction4(first='Geeks', mid='for', last='Geeks')
